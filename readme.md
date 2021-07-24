@@ -12,9 +12,9 @@ This editor utilizes [ez.h](https://github.com/driverfury/ez) library.
 
 ## Supported audio files
 
-[x] wav
-[ ] mp3
+- [x] wav
+- [ ] mp3
 
 ## TODO
 
-[ ] Music shuffling
+- [ ] Music shuffling
